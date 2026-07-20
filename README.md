@@ -17,4 +17,4 @@ test機能を使ってtestコード作成
 - アサーションの書き方
 
 ## 動作確認
-（**どうやって動かして確認するかを記載してください**）
+sail artisan test --filter UserTest を実行
